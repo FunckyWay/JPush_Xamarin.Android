@@ -1,0 +1,12 @@
+JPA.FirstPage, JPA;md5dd4994ba918647f773fb761f42e71ccf.FirstPage
+JPA.FirstPage, JPA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dd4994ba918647f773fb761f42e71ccf.FirstPage
+JPA.FirstPage;md5dd4994ba918647f773fb761f42e71ccf.FirstPage
+jpa.FirstPage;md5dd4994ba918647f773fb761f42e71ccf.FirstPage
+JPA.MainActivity, JPA;md5dd4994ba918647f773fb761f42e71ccf.MainActivity
+JPA.MainActivity, JPA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5dd4994ba918647f773fb761f42e71ccf.MainActivity
+JPA.MainActivity;md5dd4994ba918647f773fb761f42e71ccf.MainActivity
+jpa.MainActivity;md5dd4994ba918647f773fb761f42e71ccf.MainActivity
+JPA.MyReceiver, JPA;com.lvbao.JPush.MyReceiver
+JPA.MyReceiver, JPA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;com.lvbao.JPush.MyReceiver
+JPA.MyReceiver;com.lvbao.JPush.MyReceiver
+com.lvbao.JPush.MyReceiver;com.lvbao.JPush.MyReceiver

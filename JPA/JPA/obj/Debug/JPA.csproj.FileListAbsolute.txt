@@ -1,0 +1,87 @@
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPA.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPA.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\com.lvbao.JPush.apk
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\com.lvbao.JPush-Signed.apk
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPush.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPush.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\JPA.csprojResolveAssemblyReference.cache
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\JPA.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\JPA.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\bin\com.lvbao.JPush.apk
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\res\layout\firstpage.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\res\layout\main.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\res\values\strings.xml
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\res\drawable\icon.png
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\R.cs.flag
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\uploadflags.txt
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPA.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\JPush.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\Java.Interop.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\Mono.Android.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\mscorlib.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.Core.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.Xml.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\JPA.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\JPush.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\obj\Debug\JPA.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\JPA.csprojResolveAssemblyReference.cache
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPA.dll
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPA.pdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\com.lvbao.JPush.apk
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\com.lvbao.JPush-Signed.apk
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPush.dll
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPush.pdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\JPA.dll
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\JPA.pdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\bin\com.lvbao.JPush.apk
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\res\layout\firstpage.xml
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\res\layout\main.xml
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\res\values\strings.xml
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\res\drawable\icon.png
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\R.cs.flag
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\uploadflags.txt
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPA.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPush.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\Java.Interop.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\Mono.Android.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\mscorlib.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.Core.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.Xml.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\JPA.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\JPush.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\obj\Debug\JPA.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPA\bin\Debug\JPA.dll.mdb

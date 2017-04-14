@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\JPush\library_project_imports\jcore-android_v1.0.0.jar</Jar>
+    <Jar>obj\Debug\__library_projects__\JPush\library_project_imports\jpush-android_v3.0.0.jar</Jar>
+  </Jars>
+</Paths>

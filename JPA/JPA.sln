@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPA", "JPA\JPA.csproj", "{C43147BE-1790-4968-B282-A7530FC476A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPush", "JPush\JPush.csproj", "{23FCB5F2-1826-4B9E-B829-21A4C256ED2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePicker", "DatePicker\DatePicker.csproj", "{1DCBAE45-70CE-4D4E-90F0-E189AEF0EA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43147BE-1790-4968-B282-A7530FC476A8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{23FCB5F2-1826-4B9E-B829-21A4C256ED2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FCB5F2-1826-4B9E-B829-21A4C256ED2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FCB5F2-1826-4B9E-B829-21A4C256ED2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FCB5F2-1826-4B9E-B829-21A4C256ED2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCBAE45-70CE-4D4E-90F0-E189AEF0EA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCBAE45-70CE-4D4E-90F0-E189AEF0EA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCBAE45-70CE-4D4E-90F0-E189AEF0EA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCBAE45-70CE-4D4E-90F0-E189AEF0EA03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

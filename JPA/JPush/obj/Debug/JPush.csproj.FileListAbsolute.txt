@@ -1,0 +1,19 @@
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\bin\Debug\JPush.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\bin\Debug\JPush.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\bin\Debug\JPush.dll.mdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\ThirdLibs\JPush.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPA\ThirdLibs\JPush.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\obj\Debug\JPush.dll
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\obj\Debug\JPush.pdb
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\obj\Debug\JPush.csprojResolveAssemblyReference.cache
+C:\Users\HopTech\documents\visual studio 2015\Projects\JPA\JPush\obj\Debug\JPush.dll.mdb
+C:\Debug\bin\JPush.dll
+C:\Debug\bin\JPush.pdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPush\obj\Debug\JPush.dll
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPush\obj\Debug\JPush.pdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPush\obj\Debug\JPush.dll.mdb
+C:\Debug\bin\JPush.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPush\obj\Debug\JPush.dll.mdb
+C:\Debug\bin\JPush.dll.mdb
+C:\Users\HopTech\Desktop\projects\Android 消息推送\JPA\JPush\obj\Debug\JPush.dll.mdb
+C:\Debug\bin\JPush.dll.mdb
